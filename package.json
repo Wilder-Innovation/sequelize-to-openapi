@@ -14,13 +14,13 @@
     "rest",
     "api"
   ],
-  "homepage": "https://github.com/your-org/sequelize-to-openapi#readme",
+  "homepage": "https://github.com/Wilder-Innovation/sequelize-to-openapi#readme",
   "bugs": {
-    "url": "https://github.com/your-org/sequelize-to-openapi/issues"
+    "url": "https://github.com/Wilder-Innovation/sequelize-to-openapi/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-org/sequelize-to-openapi.git"
+    "url": "git+https://github.com/Wilder-Innovation/sequelize-to-openapi.git"
   },
   "license": "MIT",
   "author": "",
